@@ -89,5 +89,3 @@ However, the Python script rearranges the messages to look like this:
 - This is a bare-bones script whose primary purpose is to solely reverse large quantities of messages. It is not meant to re-create the archive file. 
 - Depending on how many messages you have, this may take a while to run. My Facebook message archive was around 20 MB in size. This took 5-10 minutes to complete on my desktop.
 - Every time the script runs it will remove and re-create the messages_reversed.html.
-
-test change 2
