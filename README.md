@@ -65,7 +65,7 @@ However, the Python script rearranges the messages to look like this:
 
 - [Python 2.7](https://www.python.org/download/releases/2.7/) (Other versions may work fine, but are untested by me)
 - [BeautifulSoup 4.4.1](http://www.crummy.com/software/BeautifulSoup/) (Other versions may work fine, but are untested by me)
--`messages.htm` file (html\messages.htm) from your [Facebook archive](https://www.facebook.com/help/212802592074644).
+- `messages.htm` file (html\messages.htm) from your [Facebook archive](https://www.facebook.com/help/212802592074644).
 
 ## How to run:
 
